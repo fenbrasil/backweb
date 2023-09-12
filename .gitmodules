@@ -1,3 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/fenbrasil/docs
+[submodule "fenixempire"]
+	path = fenixempire
+	url = https://github.com/fenbrasil/fenixempire
