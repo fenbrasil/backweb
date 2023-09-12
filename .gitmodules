@@ -4,3 +4,6 @@
 [submodule "fenixempire"]
 	path = fenixempire
 	url = https://github.com/fenbrasil/fenixempire
+[submodule "lua_error_listener"]
+	path = lua_error_listener
+	url = https://github.com/fenbrasil/lua_error_listener
