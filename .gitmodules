@@ -10,3 +10,6 @@
 [submodule "fenbrasil"]
 	path = fenbrasil
 	url = https://github.com/fenbrasil/fenbrasil
+[submodule "loading-page-php"]
+	path = loading-page-php
+	url = https://github.com/r47orr/loading-page-php
