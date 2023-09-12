@@ -7,3 +7,6 @@
 [submodule "lua_error_listener"]
 	path = lua_error_listener
 	url = https://github.com/fenbrasil/lua_error_listener
+[submodule "fenbrasil"]
+	path = fenbrasil
+	url = https://github.com/fenbrasil/fenbrasil
