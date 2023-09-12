@@ -13,3 +13,6 @@
 [submodule "loading-page-php"]
 	path = loading-page-php
 	url = https://github.com/r47orr/loading-page-php
+[submodule "loading-page-nodejs"]
+	path = loading-page-nodejs
+	url = https://github.com/r47orr/loading-page-nodejs
